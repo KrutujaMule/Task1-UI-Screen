@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Section */
+.header{
+    height: 100vh;
+    background-color: #dedeee;
+}
+
+/* Navbar */
+
+.navbar{
+    /* padding: 2px 6px; */
+    /* background-color:#ccccec; */
+    position: fixed;
+}
+
+.container{
+    margin: 20px 0px 0px 10px;
+}
+
+.logo-brand,top-nav{
+    color: rgb(7, 133, 183);
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 15px;
+}
+
+a.nav-link{
+    color: #000;
+    font-weight: bold;
+}
+
+a.nav-link:hover{
+    text-decoration: underline rgb(43, 123, 228) !important;
+    color: black; 
+}
+
+.big-text{
+    font-size:52px ;
+    margin: 30px 0;
+    font-weight: bold;
+}
+.subscribe{
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.email{
+    width: 60vh;
+    height: 35px;
+    background-color:#dedeee ;
+    padding: 4px;
+}
+.btn{
+    width: 30vh;
+}
+
+.img-responsive{
+    margin: 40px 0px;
+    width:460px;
+    /* border: 8px solid blue; */
+}
+
+.border-bottom{
+     border-bottom:10px solid rgb(18, 17, 14) !important;
+}
+
+/* Section second */
+.second{
+    height: 100vh;
+    background-color:#fff;
+}
+
+h3.heading-2{
+    margin: 90px 0px 30px 0px;
+    font-weight: bold;
+}
+
+.image-2{
+    margin:90px 0px 30px 0px;
+    height: 60vh;
+}
+
+/* Section third */
+
+.third{
+    height: 100vh;
+    background-color: #dedeee;
+}
+
+h2.heading-3{
+    font-weight: bold;
+    margin-top: 60px;
+}
+.title{
+    font-weight: bold;
+}
+
+.services{
+    margin-top: 20px;
+}
+
+ul.i-list {
+   padding-left: 0;
+   list-style: none;
+}
+
+
+ul.i-list.medium .icon {
+   margin-right: 25px;
+   color: white;
+   font-size: 25px;
+   text-align: center;
+   line-height: 68px;
+   width: 68px;
+   height: 68px;
+   border-radius: 50%; 
+}
+
+ul.i-list .icon {
+   float: left;
+}
+
+ul.i-list .icon-content {
+   overflow: hidden;
+}
+
+.icon{
+        background-color:rgb(43, 123, 228)
+}
+
+.exp-separator {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    max-width: 55px;
+    border-top-style: solid;
+}
+.section-sub-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-family: Poppins;
+}
+
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+.text-center {
+    text-align: center!important;
+}
+.center-separator .exp-separator-inner, .center-separator.exp-separator {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Section fourth */
+
+.fourth{
+        height: 100vh;
+        background-color:#fff;
+}
+
+.heading-4{
+    font-weight: bold;
+    margin-top: 70px;
+}
+
+.image-3{
+    margin:20px 0px 10px 0px;
+    height: 40vh;
+    width: 50vh;    
+}
+
+.sub-title{
+    text-align: justify;
+
+}
+
+.services{
+    margin-top: 20px;
+}
+
+icon-content{
+    padding: 6px;
+}
+
+
+
+
+
+
+
